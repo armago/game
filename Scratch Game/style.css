@@ -1,5 +1,5 @@
 body {
-background : #0000ff;
+background : #ff6600;
 font-family: 'Raleway', sans-serif;
 }
 h1 {
@@ -9,4 +9,13 @@ font-size: 54px;
 img {
 height: auto;
 width:475px ;
+}
+#title {
+background:blue; 
+width:450px;
+}
+
+#gamelink {
+width: 600px;
+	background:#ffff00;
 }
