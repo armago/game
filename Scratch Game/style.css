@@ -13,9 +13,14 @@ width:475px ;
 #title {
 background:blue; 
 width:450px;
+border-radius: 7px;
 }
 
 #gamelink {
 width: 600px;
 	background:#ffff00;
+	padding-left: 10px;
+	padding-top: 10px;
+	border-radius: 10px;
 }
+
